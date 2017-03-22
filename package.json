@@ -1,0 +1,26 @@
+{
+  "name": "comp308-2",
+  "version": "1.0.0",
+  "description": "Connect Server Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbinJob/comp308-2.git"
+  },
+  "keywords": [
+    "Connect"
+  ],
+  "author": "Albin Job",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbinJob/comp308-2/issues"
+  },
+  "homepage": "https://github.com/AlbinJob/comp308-2#readme",
+  "dependencies": {
+    "connect": "^3.6.0"
+  }
+}
